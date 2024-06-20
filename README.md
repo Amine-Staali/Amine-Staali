@@ -1,5 +1,14 @@
 <h2 align="left">Hi 👋! My name is Amine Staali and I'm a Software engineer</h2>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amine-Staali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
 <img align="right" height="150" src="https://scontent.ftun20-1.fna.fbcdn.net/v/t39.30808-6/403858347_3582436695306222_905866864839501248_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tNm0dayknrUQ7kNvgEV_g-F&_nc_ht=scontent.ftun20-1.fna&oh=00_AYBCeNKduOFNCiYlG1_C5kwwt07NEDfoiyqxgvKfeaZZ5A&oe=667A2BF9"  />
 
 ###
