@@ -1,6 +1,6 @@
 # 💫 About Me
 
-<h2 align="left">Hello! I'm Amine Staali, a passionate Computer Science Engineer 👋</h2>
+<h2 align="left">Hello! I'm Amine Staali, a passionate AI & DevOps Engineer 👋</h2>
 
 My goal is to leverage technology to solve real-world problems and enhance user experiences.
 
