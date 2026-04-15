@@ -82,4 +82,4 @@ I focus on building **scalable**, **reliable**, and **production-ready** applica
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=Amine-Staali&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Amine-Staali)
