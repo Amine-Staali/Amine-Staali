@@ -41,6 +41,11 @@ I focus on building **scalable**, **reliable**, and **production-ready** applica
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🧠 AI / ML
+![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-%234285F4.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23121011.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-%23000000.svg?style=for-the-badge&logo=robotframework&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
