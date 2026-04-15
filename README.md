@@ -58,6 +58,18 @@ I focus on building **scalable**, **reliable**, and **production-ready** applica
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+### ⚙️ Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🧠 Methodologies
+![Scrum](https://img.shields.io/badge/Scrum-%2300A4EF.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-%23007ACC.svg?style=for-the-badge&logo=trello&logoColor=white)
+![CRISP-DM](https://img.shields.io/badge/CRISP--DM-%234285F4.svg?style=for-the-badge&logo=data&logoColor=white)
+
 ---
 
 # 📊 GitHub Stats
