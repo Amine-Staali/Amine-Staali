@@ -54,7 +54,6 @@ I focus on building **scalable**, **reliable**, and **production-ready** applica
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=Amine-Staali&theme=dark&hide_border=false&include_all_commits=true)
 ![](https://streak-stats.demolab.com/?user=Amine-Staali&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Amine-Staali&theme=dark&layout=compact)
 
