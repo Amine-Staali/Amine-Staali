@@ -10,7 +10,7 @@ I focus on building **scalable**, **reliable**, and **production-ready** applica
 
 - DevOps & Cloud Infrastructure  
 - Backend & System Architecture  
-- Machine Learning Systems  
+- Agentic AI Systems 
 - Automation & CI/CD  
 - Scalable AI Applications  
 
