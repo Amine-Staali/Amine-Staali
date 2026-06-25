@@ -2,23 +2,23 @@
 
 **DevOps Engineer • Software Engineer • AI Enthusiast**
 
-Software engineer with a strong foundation in **Mathematics**, **Machine Learning**, and **Distributed Systems**, with growing expertise in **DevOps**, **cloud infrastructure**, and **production AI systems**.
+DevOps engineer with a strong foundation in **Mathematics**, **Computer Science**, and **Professional Communication**, currently focusing on **DevOps**, **cloud infrastructure**, and **production-grade AI systems**.
 
-I focus on building **scalable**, **reliable**, and **production-ready** applications, automating workflows, and designing efficient system architectures.
+I specialize in designing and building **scalable**, **reliable**, and **production-ready systems**, with a strong emphasis on automation, system design, and efficient infrastructure orchestration.
 
 ## 💫 About Me
 
-- DevOps & Cloud Infrastructure  
-- Backend & System Architecture  
-- Agentic AI Systems 
-- Automation & CI/CD  
-- Scalable AI Applications  
+- DevOps & Cloud Infrastructure Engineering  
+- Backend Systems & Distributed Architecture  
+- Agentic AI Systems
+- CI/CD Pipelines & Automation  
+- Scalable AI-powered Applications  
 
 ## 🚀 Currently
 
-- Building AI-driven platforms  
-- Improving DevOps & MLOps workflows  
-- Exploring scalable system architectures  
+- Building AI-driven platforms and tools  
+- Maintaining and improving system infrastructure  
+- Designing system architectures for diverse real-world solutions  
 
 ---
 
