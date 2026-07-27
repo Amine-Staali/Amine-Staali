@@ -44,8 +44,6 @@ Every push, merge and commit — reimagined as a space battle. Regenerated daily
   <img src="./gh-space-shooter.gif" alt="My contributions as a space shooter game" width="80%" />
 </div>
 
-> Setup: see `.github/workflows/space-shooter.yml` in this repo. First run must be triggered manually from the **Actions** tab.
-
 ---
 
 ## 🧱 3D Contribution Graph
