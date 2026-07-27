@@ -42,10 +42,6 @@ I specialize in designing and building **scalable**, **reliable**, and **product
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="80%" />
 </div>
 
-<div align="center">
-  <img src="./gh-space-shooter.gif" alt="My contributions as a space shooter game" width="80%" />
-</div>
-
 ---
 
 ## 💻 Tech Stack
@@ -54,14 +50,14 @@ I specialize in designing and building **scalable**, **reliable**, and **product
 
 <div align="center">
 
-<img src="https://iconic-api.onrender.com/dark/python" width="60px" title="Python" />
-<img src="https://iconic-api.onrender.com/dark/docker" width="60px" title="Docker" />
-<img src="https://iconic-api.onrender.com/dark/git" width="60px" title="Git" />
-<img src="https://iconic-api.onrender.com/dark/github" width="60px" title="GitHub" />
-<img src="https://iconic-api.onrender.com/dark/linux" width="60px" title="Linux" />
-<img src="https://iconic-api.onrender.com/dark/bash" width="60px" title="Bash" />
-<img src="https://iconic-api.onrender.com/dark/nodejs" width="60px" title="Node.js" />
-<img src="https://iconic-api.onrender.com/dark/vscode" width="60px" title="VS Code" />
+  <img src="https://iconic-api.onrender.com/dark/python" width="60px" title="Python" />
+  <img src="https://iconic-api.onrender.com/dark/docker" width="60px" title="Docker" />
+  <img src="https://iconic-api.onrender.com/dark/git" width="60px" title="Git" />
+  <img src="https://iconic-api.onrender.com/dark/github" width="60px" title="GitHub" />
+  <img src="https://iconic-api.onrender.com/dark/linux" width="60px" title="Linux" />
+  <img src="https://iconic-api.onrender.com/dark/bash" width="60px" title="Bash" />
+  <img src="https://iconic-api.onrender.com/dark/nodejs" width="60px" title="Node.js" />
+  <img src="https://iconic-api.onrender.com/dark/vscode" width="60px" title="VS Code" />
 
 </div>
 
@@ -92,9 +88,9 @@ I specialize in designing and building **scalable**, **reliable**, and **product
 ### 🛢️ Databases
  
 <div style="display: flex; gap: 6px; align-items: center; flex-wrap: wrap;">
-<img src="https://iconic-api.onrender.com/dark/postgresql" width="56px" title="PostgreSQL" />
-<img src="https://iconic-api.onrender.com/dark/mongodb" width="56px" title="MongoDB" />
-<img src="https://iconic-api.onrender.com/dark/mysql" width="56px" title="MySQL" />
+  <img src="https://iconic-api.onrender.com/dark/postgresql" width="56px" title="PostgreSQL" />
+  <img src="https://iconic-api.onrender.com/dark/mongodb" width="56px" title="MongoDB" />
+  <img src="https://iconic-api.onrender.com/dark/mysql" width="56px" title="MySQL" />
 </div>
 
 ### ⚙️ Programming Languages
@@ -119,10 +115,14 @@ I specialize in designing and building **scalable**, **reliable**, and **product
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+  ![](https://streak-stats.demolab.com/?user=Amine-Staali&theme=dark&hide_border=false)
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Amine-Staali&theme=dark&layout=compact)
 
-![](https://streak-stats.demolab.com/?user=Amine-Staali&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Amine-Staali&theme=dark&layout=compact)
+</div>
 
+<div align="center">
+  <img src="./gh-space-shooter.gif" alt="My contributions as a space shooter game" width="80%" />
 </div>
 
 ---
