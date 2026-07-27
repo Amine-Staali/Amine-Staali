@@ -36,20 +36,14 @@ I specialize in designing and building **scalable**, **reliable**, and **product
 
 ---
 
-## 🕹️ My Contributions, Gamified
-
-Every push, merge and commit — reimagined as a space battle. Regenerated daily by GitHub Actions.
-
-<div align="center">
-  <img src="./gh-space-shooter.gif" alt="My contributions as a space shooter game" width="80%" />
-</div>
-
----
-
-## 🧱 3D Contribution Graph
+## My Contributions
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="80%" />
+</div>
+
+<div align="center">
+  <img src="./gh-space-shooter.gif" alt="My contributions as a space shooter game" width="80%" />
 </div>
 
 ---
@@ -86,16 +80,7 @@ Every push, merge and commit — reimagined as a space battle. Regenerated daily
   ![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
 </div>
  
-### 🧠 AI / ML
- 
-<div style="display: flex; gap: 6px; align-items: center; flex-wrap: wrap;">
-<img src="https://iconic-api.onrender.com/dark/pytorch" width="56px" title="PyTorch" />
-<img src="https://iconic-api.onrender.com/dark/tensorflow" width="56px" title="TensorFlow" />
-<img src="https://iconic-api.onrender.com/dark/scikit-learn" width="56px" title="scikit-learn" />
-<img src="https://iconic-api.onrender.com/dark/numpy" width="56px" title="NumPy" />
-<img src="https://iconic-api.onrender.com/dark/pandas" width="56px" title="Pandas" />
-<img src="https://iconic-api.onrender.com/dark/jupyter" width="56px" title="Jupyter" />
-</div>
+### 🧠 Agentic AI
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=langchain&logoColor=white)
