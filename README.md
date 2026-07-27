@@ -52,8 +52,6 @@ Every push, merge and commit — reimagined as a space battle. Regenerated daily
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="80%" />
 </div>
 
-> Setup: see `.github/workflows/profile-3d-contrib.yml` in this repo. Swap the file name above for any of the generated variants (`profile-green-animate.svg`, `profile-season-animate.svg`, `profile-gitblock.svg`, …).
-
 ---
 
 ## 💻 Tech Stack
